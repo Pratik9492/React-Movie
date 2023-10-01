@@ -3,13 +3,6 @@
 ![Screenshot 2023-10-01 210320](https://github.com/Pratik9492/React-Movie/assets/126281388/a4335e81-a0ff-4922-a84f-6763f2780510)
 ![Screenshot 2023-10-01 210249](https://github.com/Pratik9492/React-Movie/assets/126281388/5068df0c-9555-4bd9-ba90-588e337eeaa4)
 
-# react-movie
-
-    Responsive React Movies App With API
-
-# Video tutorial
-
-    https://youtu.be/ntYXj9W1Ez8
 
 # Resource
 
